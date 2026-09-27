@@ -1,6 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue chips shown above each publication, keyed by the `abbr` field in papers.bib.
+"NeurIPS":
+  url: https://neurips.cc/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"COLM":
+  url: https://colmweb.org/
+
+"ACL":
+  url: https://aclanthology.org/
+
+"AAAI":
+  url: https://aaai.org/conference/aaai/
+
+"TKDD":
+  url: https://dl.acm.org/journal/tkdd
+
+"TKDE":
+  url: https://www.computer.org/csdl/journal/tk
+
+"ACPR":
+  url: https://link.springer.com/book/10.1007/978-3-030-41404-7
+
+"PAST":
+  url: https://ieeexplore.ieee.org/xpl/conhome/9975059/proceeding
+
+"Preprint":
+  url: https://arxiv.org/

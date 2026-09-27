@@ -1,34 +1,93 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Co-author links, keyed by last name as BibTeX parses it. Each entry lists
+# first-name variants because BibTeX puts middle names in the "first" field.
+# Only names with a verified homepage are listed.
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Caliskan":
+  - firstname: ["Aylin"]
+    url: https://faculty.washington.edu/aylin/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Wang":
+  - firstname: ["Jindong"]
+    url: https://jd92.wang/
+  - firstname: ["Wei"]
+    url: https://web.cs.ucla.edu/~weiwang/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Chang":
+  - firstname: ["Kai-Wei"]
+    url: https://web.cs.ucla.edu/~kwchang/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Wu":
+  - firstname: ["Ying Nian"]
+    url: http://www.stat.ucla.edu/~ywu/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Li":
+  - firstname: ["Yong"]
+    url: https://fi.ee.tsinghua.edu.cn/~liyong/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Krishna":
+  - firstname: ["Ranjay"]
+    url: https://ranjaykrishna.com/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Ji":
+  - firstname: ["Heng"]
+    url: https://blender.cs.illinois.edu/hengji.html
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Howe":
+  - firstname: ["Bill"]
+    url: https://faculty.washington.edu/billhowe/
+
+"McAuley":
+  - firstname: ["Julian"]
+    url: https://cseweb.ucsd.edu/~jmcauley/
+
+"Mitra":
+  - firstname: ["Tanu"]
+    url: https://faculty.washington.edu/tmitra/
+
+"Shen":
+  - firstname: ["Hua"]
+    url: https://huashen218.github.io/
+
+"Hernandez-Orallo":
+  - firstname: ["Jose", "José"]
+    url: https://josephorallo.webs.upv.es/
+
+"Yu":
+  - firstname: ["Philip S.", "Philip"]
+    url: https://cs.uic.edu/profiles/philip-yu/
+
+"Lu":
+  - firstname: ["Pan"]
+    url: https://lupantech.github.io/
+
+"Liu":
+  - firstname: ["Xue"]
+    url: https://www.cs.mcgill.ca/~xueliu/
+
+"Chi":
+  - firstname: ["Yuejie"]
+    url: https://yuejiechi.github.io/
+
+"Shi":
+  - firstname: ["Laixi"]
+    url: https://laixishi.github.io/
+
+"Yanai":
+  - firstname: ["Keiji"]
+    url: https://mm.cs.uec.ac.jp/
+
+"Zhu":
+  - firstname: ["Kaijie"]
+    url: https://kaijiezhu11.github.io/
+
+"Ma":
+  - firstname: ["Zixian"]
+    url: https://zixianma.github.io/
+
+"Yi":
+  - firstname: ["Xiaoyuan"]
+    url: https://xiaoyuanyi.github.io/
+
+"Sun":
+  - firstname: ["Edward"]
+    url: https://scholar.google.com/citations?user=W9g-njEAAAAJ&hl=en

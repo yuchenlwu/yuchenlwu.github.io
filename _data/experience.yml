@@ -1,0 +1,54 @@
+# Research positions and internships, most recent first.
+- date: Aug 2026 &ndash; Dec 2026
+  title: Research Fellow
+  org: <a href="https://alignment.anthropic.com/2024/anthropic-fellows-program/">Anthropic Fellows Program</a>, Anthropic
+  location: San Francisco, CA
+  note: >
+    AI alignment, safety, and coding research.
+
+- date: Jun 2026 &ndash; Aug 2026
+  title: Applied Scientist Intern
+  org: Agentic AI, <a href="https://www.amazon.science/">Amazon</a>
+  location: Seattle, WA
+  note: >
+    Multi-agent systems for long-horizon data processing.
+
+- date: May 2024 &ndash; present
+  title: Research Assistant
+  org: <a href="https://www.ece.uw.edu/">University of Washington</a>
+  location: Seattle, WA
+  note: >
+    Personalized safety and LLM agents, advised by
+    <a href="https://faculty.washington.edu/aylin/">Prof. Aylin Caliskan</a> and working with
+    <a href="https://jd92.wang/">Prof. Jindong Wang</a>.
+
+- date: May 2022 &ndash; Aug 2022
+  title: Applied Scientist Intern
+  org: E-commerce, <a href="https://www.amazon.science/">Amazon</a>
+  location: Seattle, WA
+  note: >
+    Multimodal embeddings for equivalent-product selection.
+
+- date: Sep 2021 &ndash; Sep 2022
+  title: Research Assistant
+  org: <a href="https://www.cmu.edu/">Carnegie Mellon University</a>
+  location: Pittsburgh, PA
+  note: >
+    Model quantization, sparse recovery for radar, and image prediction, with
+    <a href="https://scholar.google.com/citations?user=IWcGY98AAAAJ&hl=en">Prof. Bhiksha Raj</a>,
+    <a href="https://yuejiechi.github.io/">Prof. Yuejie Chi</a>, and Prof. Asim Smailagic.
+
+- date: Sep 2020 &ndash; Aug 2021
+  title: Research Assistant
+  org: <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>
+  location: Beijing, China
+  note: >
+    Generative models for human mobility trajectories, with
+    <a href="https://fi.ee.tsinghua.edu.cn/~liyong/">Prof. Yong Li</a>.
+
+- date: Sep 2018 &ndash; Oct 2019
+  title: Research Assistant
+  org: <a href="https://www.uec.ac.jp/eng/">The University of Electro-Communications</a>
+  location: Tokyo, Japan
+  note: >
+    GAN-based image translation, with <a href="https://mm.cs.uec.ac.jp/">Prof. Keiji Yanai</a>.
