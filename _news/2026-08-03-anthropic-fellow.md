@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as a Research Fellow in the [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program/) in San Francisco, working on AI alignment, safety, and coding.
+Started as a Research Fellow in the [Anthropic Fellows Program](https://alignment.anthropic.com/2024/anthropic-fellows-program/) in San Francisco, working on AI alignment, safety, and coding.
